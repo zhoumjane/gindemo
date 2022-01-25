@@ -1,0 +1,2 @@
+time="2021-07-11 22:35:31" level=info Agent=PostmanRuntime/7.26.8 DataSize=337 IP=127.0.0.1 Method=GET Path=/api/v1/student/1 SpendTime="19 ms" hostName=zhoumingjiandeMacBook-Air.local status=200
+time="2021-07-11 22:49:20" level=info Agent=PostmanRuntime/7.26.8 DataSize=337 IP=127.0.0.1 Method=GET Path=/api/v1/student/1 SpendTime="7 ms" hostName=zhoumingjiandeMacBook-Air.local status=200
